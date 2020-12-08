@@ -1,0 +1,15 @@
+.page {
+  text-decoration: none;
+  font-size: 25px;
+}
+.page:link, .page:visited {
+  background-color: #1E90FF;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.page:hover, .page:active {
+  background-color: LightSlateGray;
+}

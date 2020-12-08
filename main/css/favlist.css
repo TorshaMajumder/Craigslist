@@ -1,0 +1,27 @@
+div{
+	margin: auto;
+  	width: 50%;
+  	border: 3px solid green;
+  	padding: 10px;
+  	background-color: #F0F8FF;
+}
+p {
+  color: black;
+  font-size: 20px;
+  font-family: Verdana, sans-serif;
+}
+a {
+  text-decoration: none;
+  font-size: 14px;
+}
+a:link, a:visited {
+  background-color: #3CB371;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #20B2AA;
+}
